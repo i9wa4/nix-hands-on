@@ -1,4 +1,4 @@
-# nix-handson
+# nix-hands-on
 
 ## 1. 参考ページ
 
